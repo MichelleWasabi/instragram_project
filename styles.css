@@ -1,0 +1,74 @@
+body {
+    margin: 0;
+    padding: 0;
+    background:#eaeaea;
+    font-family: "Helvetica", "Arial", sans-serif;
+    font-weight: 100;
+    font-size: 14px;
+    
+}
+
+.topPage {
+    background-color: white;
+    margin-bottom: 50px;
+    overflow: hidden;
+}
+.topPage div {
+    margin: auto;
+    width: 367px;
+}
+
+h1 {
+    font-size: 30px;
+}
+.bottomPage {
+    width: 600px;
+    margin: auto;
+  
+    
+}
+.theMiddle {
+    width: 600px;
+    height: 1000px;
+}
+
+.thePost {
+    background-color: #fff;
+    border-radius: 4px;
+    width: 600px;
+    height: 530px;
+   
+}
+.theImage {
+    border-bottom: 1px #eaeaea solid;
+    border-top: 1px #eaeaea solid;
+}
+
+img {
+    max-width: 600px;
+}
+
+    
+.postHeader {
+    display: flex;
+    padding: 0 15px;
+    
+}
+
+.titleOnly h2 {
+     font-size: 20px;
+     width: 285px;
+
+}
+
+.dateOnly p {
+    color: #a5a7aa;
+    width: 285px;
+    text-align: right;
+}
+
+.theFooter p {
+    padding: 0 20px;
+    font-size: 16px;
+}
+
