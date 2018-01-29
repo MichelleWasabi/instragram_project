@@ -15,7 +15,7 @@ body {
 }
 .topPage div {
     margin: auto;
-    width: 367px;
+    width: 600px;
 }
 
 h1 {
@@ -24,7 +24,6 @@ h1 {
 .bottomPage {
     width: 600px;
     margin: auto;
-  
     
 }
 .theMiddle {
@@ -37,6 +36,7 @@ h1 {
     border-radius: 4px;
     width: 600px;
     height: 530px;
+    margin-bottom: 50px;
    
 }
 .theImage {
